@@ -51,7 +51,7 @@ text-to-sql/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone <repo-url>
 cd text-to-sql 
 ```
 
@@ -61,7 +61,7 @@ pipenv install streamlit langchain-groq
 ```
 3️⃣ Set Environment Variable
 ```bash
-Groq_API_Key:"your-key"
+Groq_API_Key: "your-key"
 ```
 4️⃣ Run the Application
 ```bash
