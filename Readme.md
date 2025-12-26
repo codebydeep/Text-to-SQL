@@ -5,6 +5,16 @@ The app converts natural language questions into SQL queries using **Groq LLM + 
 
 ---
 
+## 📸 Demo
+
+![Text to SQL Demo](images/demo_1.png)
+
+
+![Text to SQL Demo](images/demo_2.png)
+
+
+---
+
 ## 🚀 Features
 
 - 🔤 Convert **English questions → SQL queries**
